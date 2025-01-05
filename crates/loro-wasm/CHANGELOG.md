@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.0
+
+### Minor Changes
+
+- ac51ceb: feat: add exportJsonInIdSpan and make peer compression optional
+
 ## 1.2.7
 
 ### Patch Changes
